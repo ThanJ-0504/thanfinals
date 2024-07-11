@@ -4,6 +4,52 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+/* Login Page */
+/* Login Page */
+#login {
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.login-form {
+    background: #262626;
+    padding: 50px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.login-form input {
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #080808;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.login-form .btn2 {
+    padding: 14px 60px;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.login-form p {
+    margin-top: 20px;
+}
+
+.login-form p a {
+    color: #4adede;
+    text-decoration: none;
+}
+
+.login-form p a:hover {
+    text-decoration: underline;
+}
 
 body {
     background: #080808;
